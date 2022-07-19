@@ -10,7 +10,7 @@ function Coluna (props) {
     const [novoItem, setNovoItem] = useState("");
     const [itemAlterado, setItemAlterado] = useState("");
   
-  //adicionar novo item
+   //adicionar novo item
     function adicionarNovoItem() {
       if (novoItem === "") {
         alert("vazio");
