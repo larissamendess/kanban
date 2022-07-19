@@ -1,6 +1,5 @@
 import React, { useState } from 'react'; 
 import './style.css';
-import Card from '../Card';
 
 function Coluna (props) {
 
